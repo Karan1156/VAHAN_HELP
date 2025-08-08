@@ -19,7 +19,7 @@ openpyxl==3.1.5
 packaging==25.0
 pandas==2.0.3
 pillow==10.4.0
-psycopg2-binary==2.9.10   # Keep only this, remove psycopg 3.x for compatibility
+psycopg2-binary==2.9.10
 pymongo==4.10.1
 python-dateutil==2.9.0.post0
 python-decouple==3.8
@@ -32,3 +32,4 @@ typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.2.3
 whitenoise==6.7.0
+
